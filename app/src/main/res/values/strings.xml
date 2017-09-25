@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HW03</string>
+    <string name="titleString">Welcome to Trivia App</string>
+    <string name="exitString">Exit</string>
+    <string name="startTriviaString">Start Trivia</string>
+    <string name="qString">Q1</string>
+    <string name="timeString">Time Left: X Seconds</string>
+    <string name="quitString">Quit</string>
+    <string name="nextString">Next</string>
+    <string name="statsString">Trivia Stats</string>
+    <string name="correcrAnsString">Correct Answers</string>
+    <string name="percentageString">75%</string>
+    <string name="tryAgainNoteString">Try again and see if you can get all the correct answers!</string>
+    <string name="tryAgainString">Try Again</string>
+</resources>
